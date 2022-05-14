@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://super-algoasa.github.io/csb-qu6wxq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://super-algoasa.github.io/csb-qu6wxq/static/js/main.d7500525.chunk.js",
+    "main.js.map": "https://super-algoasa.github.io/csb-qu6wxq/static/js/main.d7500525.chunk.js.map",
+    "runtime-main.js": "https://super-algoasa.github.io/csb-qu6wxq/static/js/runtime-main.02ab1d89.js",
+    "runtime-main.js.map": "https://super-algoasa.github.io/csb-qu6wxq/static/js/runtime-main.02ab1d89.js.map",
+    "static/js/2.27ddc865.chunk.js": "https://super-algoasa.github.io/csb-qu6wxq/static/js/2.27ddc865.chunk.js",
+    "static/js/2.27ddc865.chunk.js.map": "https://super-algoasa.github.io/csb-qu6wxq/static/js/2.27ddc865.chunk.js.map",
+    "index.html": "https://super-algoasa.github.io/csb-qu6wxq/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://super-algoasa.github.io/csb-qu6wxq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.27ddc865.chunk.js.LICENSE.txt": "https://super-algoasa.github.io/csb-qu6wxq/static/js/2.27ddc865.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02ab1d89.js",
+    "static/js/2.27ddc865.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d7500525.chunk.js"
+  ]
+}
